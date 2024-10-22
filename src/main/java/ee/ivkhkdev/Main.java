@@ -4,7 +4,6 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-        // 4
         int summ = 0;
         int[] arr = new int[10];
         for (int i = 0; i < 10; i++) {
